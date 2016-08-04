@@ -1,0 +1,27 @@
+_repo: The-Fashionable-Adventures-of-Joshua-Craig--A-Novel_4929
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Phillips, David Graham
+    alias: Graham, John
+    birthdate: 1867
+    deathdate: 1911
+    gutenberg_agent_id: '235'
+    url: http://www.gutenberg.org/2009/agents/235
+    wikipedia: http://en.wikipedia.org/wiki/David_Graham_Phillips
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4929'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: 'The Fashionable Adventures of Joshua Craig: A Novel'
+url: http://www.gutenberg.org/ebooks/4929
